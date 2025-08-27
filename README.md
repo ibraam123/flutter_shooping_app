@@ -106,17 +106,13 @@ lib/
 
 ## 📸 Screenshots
 
-### Welcome Screen
-![Welcome Screen](screenshots/welcome_screen.png)
+| Welcome Screen | Sign In Screen |
+|----------------|----------------|
+| ![Welcome Screen](screens/Screenshot_20250827_235007.png) | ![Sign Up Screen](screens/Screenshot_20250827_235025.png) |
 
-### Sign In Screen
-![Sign In Screen](screenshots/signin_screen.png)
-
-### Sign Up Screen
-![Sign Up Screen](screenshots/signup_screen.png)
-
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
+| Sign Up Screen | Home Screen |
+|----------------|-------------|
+| ![Sign In Screen](screens/Screenshot_20250827_235037.png) | ![Home Screen](screens/Screenshot_20250827_235114.png) |
 
 ## 🚀 Usage
 
