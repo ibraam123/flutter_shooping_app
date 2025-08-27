@@ -38,6 +38,7 @@ dependencies:
   firebase_core: ^4.0.0
   bloc: ^9.0.0
   flutter_bloc: ^9.1.1
+  carousel_slider: ^5.1.1
 
 dev_dependencies:
   flutter_test:
